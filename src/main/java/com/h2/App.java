@@ -4,7 +4,7 @@ package com.h2;
  * Hello world!
  *
  */
-public class App 
+public class App
 {
     public static void main( String[] args )
     {
@@ -12,6 +12,6 @@ public class App
     }
 
     public static int doubleTheNumber(int number) {
-        return -1;
+        return 2* number;
     }
 }
